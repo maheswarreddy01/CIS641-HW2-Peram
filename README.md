@@ -6,9 +6,10 @@ Git Demo Repo.
 *  Data Structures and Algorithms: using Python.
 *  Web Development: using Mean stack(MongoDb, ExpressJs, Angularjs, NodeJS). 
 *  Watching movies.
+* [Personal portfolio](https://maheswar-reddy.web.app/)
 
 ## Technical Background
-    - I had **2 years** of exprience.
+    - I had 2 years of exprience.
     - My latest designation is software engineer.
 
 
