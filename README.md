@@ -1,6 +1,3 @@
-# CIS641-HW2-Peram
-Git Demo Repo.
-
 # Maheswar Reddy Peram.
 
 *  Data Structures and Algorithms: using Python.
