@@ -6,6 +6,7 @@ Git Demo Repo.
 *  Data Structures and Algorithms: using Python.
 *  Web Development: using Mean stack(MongoDb, ExpressJs, Angularjs, NodeJS). 
 *  Watching movies.
+* [team project](https://github.com/maheswarreddy01/GVSU-CIS641-Amigos)
 * [Personal portfolio](https://maheswar-reddy.web.app/)
 
 ## Technical Background
